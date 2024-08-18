@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_whpNot Found</name>
+   <tag></tag>
+   <elementGuidId>462c0dcf-6d33-4fe5-8574-e2b0d89455e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#awesomplete_list_1 > li</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='awesomplete_list_1']/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c3dd7211-607c-4f67-b691-6c3206227a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>644b1958-03e5-4192-ad50-817a9741752e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>whp Not Found</value>
+      <webElementGuid>3dcf27d9-8cf7-48d4-8d66-86273cc212e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;awesomplete_list_1&quot;)/li[1]</value>
+      <webElementGuid>a536882e-a96b-4803-a0b2-5d58fd26d786</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='awesomplete_list_1']/li</value>
+      <webElementGuid>85b4d33e-d43d-44a0-99ba-96367246b539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No results found'])[1]/following::li[1]</value>
+      <webElementGuid>6bb104be-897f-4c4c-b9d5-fefe37cf8a3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/following::li[2]</value>
+      <webElementGuid>9f1d0542-7b92-4b29-a635-59b1d28cc183</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='King Saver: Semua Menu @ 23k'])[1]/preceding::li[1]</value>
+      <webElementGuid>4fd6cb37-184a-47f5-81d8-c3b885e58181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/ul/li</value>
+      <webElementGuid>99063d52-b70f-4a0c-bef7-e829a55c4173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'whp Not Found' or . = 'whp Not Found')]</value>
+      <webElementGuid>c231f3db-d9b5-476e-9360-825064a899cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

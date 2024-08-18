@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cheese Whopper Jr</name>
+   <tag></tag>
+   <elementGuidId>150a12a9-975e-43f6-8224-de8579f11033</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='awesomplete_list_1']/li/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c3bafcb1-02a4-4e84-827b-2f1b48b02317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>d9584e85-b08a-4a5d-881b-56bf90c59299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cheese Whopper® Jr</value>
+      <webElementGuid>e7d5658d-12c0-47a1-a20c-447ce6b72ef0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;awesomplete_list_1&quot;)/li[1]/div[@class=&quot;desc&quot;]/span[@class=&quot;name&quot;]</value>
+      <webElementGuid>34262f8e-cc66-4aff-8e78-76db50c78257</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='awesomplete_list_1']/li/div/span</value>
+      <webElementGuid>56252790-d566-40ee-8e99-03b2d05b1ae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No results found'])[1]/following::span[1]</value>
+      <webElementGuid>14c41468-e356-4881-a45b-69fd0a026528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/following::span[4]</value>
+      <webElementGuid>170bd98e-186b-4369-9c8f-0ef7088a099f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 42,000'])[1]/preceding::span[1]</value>
+      <webElementGuid>394ab2fe-51d8-421c-af20-e4d16f3c12a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='King Box Cheese Whopper®'])[1]/preceding::span[2]</value>
+      <webElementGuid>2fcda335-aa47-4840-b751-fdbed8041536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cheese Whopper® Jr']/parent::*</value>
+      <webElementGuid>e585d38f-5064-4d2d-a39a-57f844a90c55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/span</value>
+      <webElementGuid>070da4d8-20b0-45b6-bb13-d782f2150921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cheese Whopper® Jr' or . = 'Cheese Whopper® Jr')]</value>
+      <webElementGuid>0fdd400c-c41b-453d-bf68-753756e69c1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

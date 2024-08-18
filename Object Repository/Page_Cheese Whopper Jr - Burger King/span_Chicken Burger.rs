@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Chicken Burger</name>
+   <tag></tag>
+   <elementGuidId>35e31686-437b-4759-b6d3-ec207ed64fb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='awesomplete_list_1']/li/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c3a78e62-4d4c-4f33-88c1-1bde7c088ce6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>a3aa6da0-8893-48f7-88dc-4e5e729e5690</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chicken Burger</value>
+      <webElementGuid>207a7ebc-ca12-480b-ab02-612d4d571313</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;awesomplete_list_1&quot;)/li[1]/div[@class=&quot;desc&quot;]/span[@class=&quot;name&quot;]</value>
+      <webElementGuid>ec83e986-2ca1-4414-816b-66313bc7334a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='awesomplete_list_1']/li/div/span</value>
+      <webElementGuid>6cc3dc63-a3bf-4d72-8c80-ec9329d78030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No results found'])[1]/following::span[1]</value>
+      <webElementGuid>746cb3a2-3b8d-4815-b422-169d121f921a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/following::span[3]</value>
+      <webElementGuid>4b0ebdbe-b684-46b2-bf0e-9fe2f53d1370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 25,000'])[1]/preceding::span[1]</value>
+      <webElementGuid>edde882c-eacc-4002-b284-1ad1d1e8ede6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blitz Royal Chicken Burger'])[1]/preceding::span[2]</value>
+      <webElementGuid>5381e840-e3ab-4b41-ac6f-c038629143fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chicken Burger']/parent::*</value>
+      <webElementGuid>5074a472-19f0-47bb-a178-f8b37d80320d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/span</value>
+      <webElementGuid>8988ea88-fc08-455f-8333-ec4d7cf391b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Chicken Burger' or . = 'Chicken Burger')]</value>
+      <webElementGuid>441fb0b6-a333-4a6a-8ae3-e311570d1ccd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

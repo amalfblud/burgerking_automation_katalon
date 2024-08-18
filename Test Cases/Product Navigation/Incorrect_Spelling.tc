@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Incorrect_Spelling</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef7ede46-e957-49cc-9995-ab7613256bd5</testCaseGuid>
+</TestCaseEntity>
